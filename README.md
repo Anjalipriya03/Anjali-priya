@@ -1,5 +1,6 @@
 # 💫 About Me:
   Hey there! I am Anjali.<br> 🚀I'm on a passionate journey through the ever-evolving world of mobile app development.
+img align="right" alt="Coding" width="400" src="https://rishavchanda.io/"
 <br>🪴 Currently learning concepts of machine learning.<br>🔖 Fun fact: Apart from programming, I like to read books(fiction).<br> 
 
 
