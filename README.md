@@ -1,6 +1,8 @@
 # 💫 About Me:
-  Hey there! I am Anjali.<br> 🚀I'm on a passionate journey through the ever-evolving world of mobile app development.<br>🪴 Currently learning concepts of machine learning.<br>🔖 Fun fact: Apart from programming, I like to read books(fiction).<br> 
-    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
+  Hey there! I am Anjali.<br> 🚀I'm on a passionate journey through the ever-evolving world of mobile app development.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br>🪴 Currently learning concepts of machine learning.<br>🔖 Fun fact: Apart from programming, I like to read books(fiction).<br> 
+
 
 
 ## 🌐 Socials:
