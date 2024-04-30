@@ -7,6 +7,9 @@
   
 
 - 🌱 I’m currently working on expanding my knowledge and expertise in field of machine learning in various domain.
+- A learner, Focused on self-development to gain more knowledge, skills, and experiences. Machine Learning student interested in working on different set of problems.
+
+
   
   
 
